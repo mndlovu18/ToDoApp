@@ -18,7 +18,7 @@ The App comes with the following functionality:
 
 ## Demo Video 
 
-Here's a walkthrough of implemented user stories:
+Here's a demo of implemented user stories:
 
 <img src='https://i.imgur.com/AydTS21.gifv' title='DemoVideo' width='' alt='Video Walkthrough' />
 
@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 Challenges faced during the app building
 - Run time errors due to uninstalled software
--Most of the times the app would not run 
+- Emulator mulfunction
 
 ## License
 
